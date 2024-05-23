@@ -10,6 +10,7 @@ int main()
 
 	test.addDetection("Detection 1");
 	test.addDetection("Detection 2");
+	test.addDetection("Detection 3");
 
 	test.print();
 }
